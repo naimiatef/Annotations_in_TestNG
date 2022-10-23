@@ -1,0 +1,24 @@
+
+Les différentes annotations disponibles dans TestNG sont listées ci-dessous −
+
+@Test - Ceci est utilisé avant chaque méthode de test dans le fichier de classe Java.
+
+@BeforeSuite - Ceci est utilisé pour exécuter une méthode de test particulière avant toutes les méthodes de test.
+
+@AfterSuite - Ceci est utilisé pour exécuter une méthode de test particulière après toutes les méthodes de test.
+
+@BeforeClass - Ceci est utilisé pour exécuter une méthode de test particulière une seule fois avant la première méthode de test.
+
+@AfterClass - Ceci est utilisé pour exécuter une méthode de test particulière une seule fois après que toutes les méthodes de test du fichier de classe Java actuel ont été exécutées.
+
+@BeforeTest - Ceci est utilisé pour s'exécuter avant toute méthode de test à l'intérieur de la balise @Test.
+
+@AfterTest - Ceci est utilisé pour s'exécuter après toute méthode de test à l'intérieur de la balise @Test.
+
+@BeforeGroup - Ceci est utilisé pour exécuter une méthode de test une seule fois avant chaque méthode de test appartenant à un groupe particulier.
+
+@AfterGroup - Ceci est utilisé pour exécuter une méthode de test une seule fois après chaque méthode de test appartenant à un groupe particulier.
+
+@BeforeMethod - Ceci est utilisé pour exécuter une méthode de test avant chaque méthode de test présente dans ce fichier de classe Java.
+
+@AfterMethod - Ceci est utilisé pour exécuter une méthode de test après chaque méthode de test présente dans ce fichier de classe Java.
