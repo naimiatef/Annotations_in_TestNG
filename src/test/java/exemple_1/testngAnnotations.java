@@ -32,6 +32,7 @@ public class testngAnnotations {
 	@AfterMethod
 	public void afterMethod() {
 		System.out.println("After Method");
+		
 	}
 
 	@BeforeClass
@@ -62,5 +63,6 @@ public class testngAnnotations {
 	@AfterSuite
 	public void afterSuite() {
 		System.out.println("After Suite");
+		System.out.println("End");
 	}
 }
