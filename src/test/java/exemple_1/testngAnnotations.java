@@ -64,5 +64,6 @@ public class testngAnnotations {
 	public void afterSuite() {
 		System.out.println("After Suite");
 		System.out.println("End");
+		System.out.println("End");
 	}
 }
