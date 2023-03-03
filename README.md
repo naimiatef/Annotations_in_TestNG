@@ -12,4 +12,5 @@
 Comment sauter des tests dans TestNG en utilisant des paramètres ?
 	- Souvent, nous devons simplement sauter une méthode de cas de test et effectuer des tests. Il saute, et nous le transmettons via
 	 le paramètre « enabled ».
-https://github.com/naimiatef/Annotations_in_TestNG/blob/main/src/test/java/exemple_1/TestNGAnnotationsHeirarchy.jpg
+
+![TestNGAnnotationsHeirarchy](https://user-images.githubusercontent.com/7100940/222734600-40f53545-cf7c-46ae-953e-38a71c726d63.jpg)
